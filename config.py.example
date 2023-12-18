@@ -1,0 +1,6 @@
+
+NOTES_DIR = '/home/user/evernote/exported'
+DB_FILE = '/home/user/evernote/user.exb'
+OUTPUT_DIR = '/home/user/evernote/converted'
+TO_MARKDOWN = True
+ZIM_SYNTAX = False
